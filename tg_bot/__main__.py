@@ -144,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
                                                                        url="t.me/Imteyaz_king")],
                                                                                    [InlineKeyboardButton(text="ADD TANNU ROBOT TO YOUR GROUP",
-                                                                       url="t.me/{}?startgroup=true".format(bot.username)),
+                                                                       url="t.me/FRIENDS_FOREVER_OFFICIAL_CHAT}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
                                                                        url="https://github.com/legendx22/GRANDROBOT")
                                                                                  ]]))
