@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "https://telegra.ph/file/24e9fbebd2f9015393b7a.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,8 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
-   "name": "GRAND OFFICIAL",
+   "logo": "https://telegra.ph/file/24e9fbebd2f9015393b7a.jpg",
+   "name": "Nisha Sheikh",
    "repository": "https://github.com/legendx22/GRANDROBOT"
 }
+
